@@ -1,29 +1,64 @@
 {
-    "jokes": [
-      {
-        "id": 1,
-        "text": "I went to buy some camo pants but couldn’t find any.",
-        "told": false
-      },
-      {
-        "id": 2,
-        "text": "I always find elevator jokes to be uplifting.",
-        "told": false
-      },
-      {
-        "id": 3,
-        "text": "Most people are shocked when they find out how bad I am as an electrician.",
-        "told": true
-      },
-      {
-        "id": 4,
-        "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
-        "told": false
-      },
-      {
-        "id": 5,
-        "text": "I failed math so many times at school, I can’t even count",
-        "told": true
-      }
-    ]
-  }
+  "jokes": [
+    {
+      "id": 1,
+      "text": "I went to buy some camo pants but couldn’t find any.",
+      "told": false
+    },
+    {
+      "id": 2,
+      "text": "I always find elevator jokes to be uplifting.",
+      "told": false
+    },
+    {
+      "id": 3,
+      "text": "Most people are shocked when they find out how bad I am as an electrician.",
+      "told": true
+    },
+    {
+      "id": 4,
+      "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
+      "told": false
+    },
+    {
+      "id": 5,
+      "text": "I failed math so many times at school, I can’t even count",
+      "told": true
+    },
+    {
+      "text": "here is a joke",
+      "told": false,
+      "id": 6
+    },
+    {
+      "text": "another joke",
+      "told": false,
+      "id": 7
+    },
+    {
+      "text": "boom boom",
+      "told": false,
+      "id": 8
+    },
+    {
+      "text": "boom",
+      "told": false,
+      "id": 9
+    },
+    {
+      "text": "here is a line for ya",
+      "told": false,
+      "id": 10
+    },
+    {
+      "text": "here is another joke",
+      "told": false,
+      "id": 11
+    },
+    {
+      "text": "this is the newest joke",
+      "told": false,
+      "id": 12
+    }
+  ]
+}
